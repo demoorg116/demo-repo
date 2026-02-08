@@ -282,16 +282,17 @@ h3 {
 }
 
 .skill-item {
-    background-color: #ecf0f1;
+    background-color: #34495e;
     padding: 12px 20px;
     border-radius: 5px;
     text-align: center;
     transition: transform 0.2s;
+    color: #fff;
 }
 
 .skill-item:hover {
     transform: translateY(-3px);
-    background-color: #d5dbdb;
+    background-color: #a0aecd;
 }
 
 /* Certifications List */
